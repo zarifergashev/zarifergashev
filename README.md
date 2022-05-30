@@ -3,7 +3,7 @@
 ## I'm a Modile Developer
 
 - 🔭 I’m currently working on [Green White Solution][website]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 💬 Ask me about Mobile programming
 - ⚡ Fun fact: I love watching youtube
 
